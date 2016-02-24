@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="comic_photo_size">150dp</dimen>
+    <dimen name="cardview_actor_mask_dimen">175dp</dimen>
+    <dimen name="insets">10dp</dimen>
+    <dimen name="cardview_comic_name_text_size">14sp</dimen>
+    <dimen name="cardview_comic_padding">10dp</dimen>
+    <dimen name="cardview_comic_corner_radius">6dp</dimen>
+    <dimen name="detail_comic_title_text_size">18sp</dimen>
+    <dimen name="detail_comic_description_text_size">12sp</dimen>
+    <dimen name="detail_photo_size">350dp</dimen>
+</resources>

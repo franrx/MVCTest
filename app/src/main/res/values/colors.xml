@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="comic_cardview_white_text_color">#FFFFFF</color>
+    <color name="comic_cardview_black_text_color">#43484E</color>
+    <color name="comic_cardview_grey_background">#313646</color>
+    <color name="comic_cardview_white_background">#FFFFFF</color>
+    <color name="comic_list_background">#797784</color>
+    <color name="comic_detail_background">#FFFFFF</color>
+    <color name="color_detail_black_text_color">#43484E</color>
+    <color name="masterlist_background_blue">#00A190</color>
+    <color name="masterlist_background_green">#72A201</color>
+</resources>
